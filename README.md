@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently studying medicine and preparing for the boards.
+
 <!--
 **dventurim/dventurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
