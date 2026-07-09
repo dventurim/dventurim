@@ -1,18 +1,39 @@
-### Hi there 👋
+# Olá, bem-vindo! 👋
 
-- 🌱 I’m currently learning medicine to ace the boards.
+Sou um desenvolvedor apaixonado por tecnologia e medicina. Estou em uma jornada contínua de aprendizado, combinando minha paixão por código com conhecimentos em saúde.
 
-<!--
-**dventurim/dventurim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Sobre Mim
 
-Here are some ideas to get you started:
+- 🏥 Estudando medicina para dominar os conhecimentos clínicos
+- 💻 Desenvolvedor com interesse em soluções tecnológicas inovadoras
+- 🌱 Sempre aprendendo novas tecnologias e práticas
+- 🔬 Fascinado pela intersecção entre tecnologia e saúde
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Habilidades
+
+- **Linguagens**: Python, JavaScript, Java, SQL
+- **Desenvolvimento**: Web, Mobile, Backend
+- **Ferramentas**: Git, Docker, APIs REST
+- **Aprendizado**: Machine Learning, Data Science
+
+## 📚 Atualmente Estudando
+
+- Medicina e preparação para avaliações clínicas
+- Desenvolvimento de aplicações web modernas
+- Arquitetura de sistemas escaláveis
+
+## 🤝 Colaborações
+
+Estou aberto a colaborações em projetos que envolvam:
+- Aplicações de saúde/medicina
+- Ferramentas educacionais
+- Soluções tecnológicas inovadoras
+
+## 📫 Como Me Encontrar
+
+- GitHub: [@dventurim](https://github.com/dventurim)
+- Aberto para discussões, sugestões e contribuições!
+
+---
+
+✨ **"A vida é uma sequência infinita de aprendizados"** ✨
