@@ -8,7 +8,13 @@
 <p align="center">
   <a href="https://www.instagram.com/medramnews/"><img src="https://img.shields.io/badge/Instagram-@medramnews-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://medram-news.blogspot.com/"><img src="https://img.shields.io/badge/Blog-MedRam_News-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="https://github.com/dventurim/estudos-medicina"><img src="https://img.shields.io/badge/Cards-estudos--medicina-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cards"></a>
+  <a href="https://github.com/dventurim/estudos-medicina"><img src="https://img.shields.io/badge/Acervo-estudos--medicina-0F8A80?style=for-the-badge&logo=github&logoColor=white" alt="Acervo"></a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-1910-6062"><img src="https://img.shields.io/badge/ORCID-0000--0002--1910--6062-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="http://lattes.cnpq.br/1211641598704539"><img src="https://img.shields.io/badge/Lattes-CNPq-1F4E79?style=flat-square&logoColor=white" alt="Currículo Lattes"></a>
+  <a href="https://ror.org/0176yjw32"><img src="https://img.shields.io/badge/UFMG-Faculdade_de_Medicina_·_desde_2018-C8102E?style=flat-square" alt="UFMG"></a>
 </p>
 
 ---
@@ -19,6 +25,8 @@ Construo as minhas ferramentas de estudo em vez de só consumir as dos outros. D
 
 Infográficos e artigos médicos de alto padrão, construídos sobre literatura primária. A proposta é densidade sem ruído: um tema por peça, com o raciocínio inteiro visível — semiologia, fisiopatologia, algoritmo de decisão e a armadilha que derruba a questão de prova.
 
+📁 **Acervo:** [estudos-medicina](https://github.com/dventurim/estudos-medicina) — as peças em HTML, versionadas junto com as fontes que as sustentam. Divulgação no [Instagram](https://www.instagram.com/medramnews/).
+
 **Infográficos** — cada um desenhado do zero, com a referência ao lado da afirmação que a sustenta:
 
 | Peça | Do que trata |
@@ -28,7 +36,9 @@ Infográficos e artigos médicos de alto padrão, construídos sobre literatura 
 | **Íleo biliar — tríade de Rigler** | Pneumobilia, obstrução mecânica e cálculo ectópico, com a pegada de prova entre *sinal* e *tríade* de Rigler |
 | **Linfonodo sentinela no tumor de mama** | Indicação por cenário clínico, níveis de Berg e a armadilha da axila clinicamente positiva |
 
-**Artigos** no [blog](https://medram-news.blogspot.com/), com foco em neuropsiquiatria: [TDAH no adulto](https://medram-news.blogspot.com/2026/06/tdah-no-adulto-diagnostico-tratamento-e.html), insônia além do "remédio para dormir", Alzheimer, transtorno bipolar e transtorno de ansiedade generalizada.
+**Artigos** no [blog](https://medram-news.blogspot.com/): [TDAH no adulto](https://medram-news.blogspot.com/2026/06/tdah-no-adulto-diagnostico-tratamento-e.html), insônia além do "remédio para dormir", Alzheimer, transtorno bipolar e transtorno de ansiedade generalizada.
+
+A lista de artigos não é aleatória — é onde meu interesse está. **Psiquiatria** é a área para onde pretendo seguir, e escrever sobre ela é como estudo: nada expõe um buraco de raciocínio mais rápido do que ter de explicar o critério diagnóstico por escrito, para alguém que vai usar aquilo.
 
 ## 🛠️ Como eu construo
 
@@ -52,7 +62,24 @@ Material de estudo com dado errado é pior que material nenhum, porque ensina er
 
 - 🧠 **Monitoria de neuroanatomia** — ensinar é o melhor jeito de descobrir o que você só achava que sabia
 - 🫀 **Liga de Cardiologia da UFMG** — projeto de extensão
-- 🩺 Medicina na **UFMG**, com foco em raciocínio clínico
+- 🩺 Medicina na **UFMG** desde 2018, com foco em raciocínio clínico
+- 🧩 **Interesse em psiquiatria** — a linha que atravessa o que escrevo
+
+Registro acadêmico verificável: [ORCID 0000-0002-1910-6062](https://orcid.org/0000-0002-1910-6062) · [Currículo Lattes](http://lattes.cnpq.br/1211641598704539)
+
+<details>
+<summary>Identificadores da instituição</summary>
+
+**Universidade Federal de Minas Gerais** — Belo Horizonte, MG, Brasil
+
+| Registro | Identificador |
+| --- | --- |
+| ROR | [0176yjw32](https://ror.org/0176yjw32) |
+| RINGGOLD | 28114 |
+| ISNI | 0000 0001 2181 4888 |
+| Open Funder Registry | [10.13039/501100007374](https://doi.org/10.13039/501100007374) |
+
+</details>
 
 ## 📫 Contato
 
