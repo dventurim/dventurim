@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Caprasimo&family=Figtree:wght@400;600;700&display=swap">
+<style>
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{background:#f5ead8;font-family:'Figtree',system-ui,sans-serif}
+  a{color:var(--accent-strong,#8c491a)}
+  a:hover{color:#643312}
+</style>
+</helmet>
+<div style="position:relative;max-width:860px;margin:0 auto;padding:34px 30px 60px;{{ themeVars }}">
+  <sc-if value="{{ decor }}" hint-placeholder-val="{{ false }}">
+    <div style="position:absolute;inset:0;overflow:hidden;pointer-events:none;z-index:0">
+      <div style="position:absolute;top:-70px;right:-50px;width:300px;height:300px;border-radius:999px;background:var(--accent,#c67139);opacity:.10"></div>
+      <div style="position:absolute;top:560px;left:-110px;width:250px;height:250px;border-radius:999px;background:var(--second,#7a8a5e);opacity:.11"></div>
+      <div style="position:absolute;bottom:70px;right:-90px;width:340px;height:340px;border-radius:999px;background:var(--second,#7a8a5e);opacity:.08"></div>
+    </div>
+  </sc-if>
+  <div style="position:relative;z-index:1;background:transparent;color:#201e1d;font-family:'Figtree',system-ui,sans-serif;padding:8px 16px 0">
+
+    <!-- header -->
+    <div style="display:flex;align-items:center;gap:10px;background:var(--accent-soft,#fff2eb);color:var(--accent-strong,#8c491a);border-radius:var(--r-pill,999px);padding:8px 18px;font-size:12.5px;font-weight:700;letter-spacing:.02em;width:fit-content">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="var(--accent,#c67139)" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"></path></svg>
+      ECG de alto rendimento
+    </div>
+    <h1 style="margin:22px 0 0;font-family:'Caprasimo',system-ui,sans-serif;font-weight:400;font-size:52px;line-height:1.04;color:#201e1d">Hipocalemia grave e paralisia periódica tireotóxica</h1>
+    <div style="display:flex;align-items:flex-start;gap:26px;margin-top:22px">
+      <p style="margin:0;font-size:16.5px;line-height:1.55;color:#645c50;flex:1">Homem jovem com fraqueza flácida proximal aguda. Potássio sérico ≈ 1,9&nbsp;mEq/L no momento em que este ECG foi registrado.</p>
+      <!-- K blob -->
+      <div style="flex:none;width:150px;height:150px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);color:#f5ead8;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center">
+        <div style="font-size:11px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;opacity:.9">K⁺ sérico</div><div style="font-family:'Caprasimo',system-ui,sans-serif;font-size:52px;line-height:.95;margin-top:2px">1,9</div>
+        
+        <div style="font-size: 15px; font-weight: 700; text-align: center">mEq/L</div><div style="font-size: 16px; opacity: .85; margin-top: 3px">ref. 3,5–5,0</div>
+        
+      </div>
+    </div>
+
+    <!-- ECG washed, rounded -->
+    <figure style="margin:32px 0 0">
+      <div style="border-radius:var(--r-card,28px);overflow:hidden;box-shadow:0 12px 32px color-mix(in srgb,#2e2b25 22%,transparent)">
+        <img src="assets/ecg.png" alt="ECG de 12 derivações" style="display:block;width:100%;filter:saturate(.72) contrast(.96) brightness(1.05)">
+      </div>
+      <figcaption style="margin-top:14px;font-size:12.5px;line-height:1.45;color:#82796a">ECG de 12 derivações — 25&nbsp;mm/s, 10&nbsp;mm/mV. Fonte: ECG Wave-Maven / Beth Israel Deaconess Medical Center.</figcaption>
+    </figure>
+
+    <!-- ACHADOS -->
+    <section style="margin-top:38px">
+      <div style="display:flex;align-items:center;gap:12px">
+        <span style="width:34px;height:34px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);color:#f5ead8;font-family:'Caprasimo',system-ui,sans-serif;font-size:17px;display:flex;align-items:center;justify-content:center">1</span>
+        <h2 style="margin:0;font-family:'Caprasimo',system-ui,sans-serif;font-weight:400;font-size:30px">Achados no ECG da hipocalemia</h2>
+      </div>
+
+      <div style="margin-top:20px;background:var(--accent-soft,#fff2eb);border-radius:var(--r-card,28px);padding:22px 26px">
+        <svg viewBox="0 0 520 165" style="width:100%;height:auto;display:block" fill="none" font-family="'Figtree',system-ui,sans-serif">
+          <path d="M20,100 L60,100 L66,86 L82,86 L90,100 L120,100 L126,108 L134,30 L142,116 L150,101 L188,104 L210,94 L246,94 L270,104 L296,74 L332,74 L360,101 L500,100" stroke="var(--accent,#c67139)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"></path>
+          <path d="M150,127 L150,134 L360,134 L360,127" stroke="var(--second,#7a8a5e)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+          <text x="72" y="80" font-size="13" font-weight="700" fill="var(--accent-strong,#8c491a)">P</text>
+          <text x="222" y="86" font-size="13" font-weight="700" fill="var(--accent-strong,#8c491a)">T</text>
+          <text x="320" y="66" font-size="13" font-weight="700" fill="var(--accent-strong,#8c491a)">U</text>
+          <text x="255" y="151" font-size="12" font-weight="600" fill="var(--second-strong,#56633f)" text-anchor="middle">QU prolongado</text>
+        </svg>
+        <p style="margin:12px 4px 0;font-size:13px;line-height:1.5;color:#645c50">Batimento esquemático: onda T achatada, onda U ampla e fusão T–U. O “QT longo” aparente é, na verdade, o intervalo QU.</p>
+      </div>
+
+      <div style="display:flex;flex-direction:column;gap:12px;margin-top:22px">
+        <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;width:11px;height:11px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);margin-top:6px"></span><p style="margin:0;font-size:15px;line-height:1.5">Taquicardia sinusal em repouso com prolongamento do intervalo PR.</p></div>
+        <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;width:11px;height:11px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);margin-top:6px"></span><p style="margin:0;font-size:15px;line-height:1.5">Ondas U muito amplas, máximas em <strong style="color:var(--accent-strong,#8c491a)">V3–V4</strong>; a amplitude da U pode superar a da T.</p></div>
+        <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;width:11px;height:11px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);margin-top:6px"></span><p style="margin:0;font-size:15px;line-height:1.5">Achatamento da onda T e infradesnível do segmento ST.</p></div>
+        <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;width:11px;height:11px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);margin-top:6px"></span><p style="margin:0;font-size:15px;line-height:1.5">Na <strong style="color:var(--accent-strong,#8c491a)">DII</strong>, as ondas P estão sobrepostas às ondas U.</p></div>
+        <div style="display:flex;gap:14px;align-items:flex-start"><span style="flex:none;width:11px;height:11px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);margin-top:6px"></span><p style="margin:0;font-size:15px;line-height:1.5">Repolarização acentuadamente prolongada (fusão T–U → intervalo QU longo).</p></div>
+      </div>
+      <p style="margin:20px 0 0;background:var(--second-soft,#f0fae1);border-radius:var(--r-note,16px);padding:14px 18px;font-size:13.5px;line-height:1.5;color:var(--second-strong,#56633f)">Com a queda do K⁺: T achata → ST infra → onda U cresce → fusão T–U, com risco crescente de arritmia ventricular.</p>
+    </section>
+
+    <!-- FISIOPATOLOGIA -->
+    <section style="margin-top:38px">
+      <div style="display:flex;align-items:center;gap:12px">
+        <span style="width:34px;height:34px;border-radius:var(--r-pill,999px);background:var(--second,#7a8a5e);color:#f5ead8;font-family:'Caprasimo',system-ui,sans-serif;font-size:17px;display:flex;align-items:center;justify-content:center">2</span>
+        <h2 style="margin:0;font-family:'Caprasimo',system-ui,sans-serif;font-weight:400;font-size:30px">Fisiopatologia da PPT</h2>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:12px;margin-top:18px;font-size:14.5px;line-height:1.55;color:#3f3a33">
+        <p style="margin:0">Tireotoxicose ativa a bomba <strong style="color:var(--second-strong,#56633f)">Na⁺/K⁺-ATPase</strong> (potencializada por estímulo β-adrenérgico e insulina), com influxo maciço de K⁺ para o intracelular.</p>
+        <p style="margin:0">Hipocalemia por <strong style="color:var(--second-strong,#56633f)">redistribuição</strong>: o potássio corporal total é normal — não há espoliação.</p>
+        <p style="margin:0">Ataques de paralisia flácida desencadeados por refeição rica em carboidratos, repouso após exercício e estresse; predomínio em homens asiáticos.</p>
+        <p style="margin:0">Quase sempre associada à <strong style="color:var(--second-strong,#56633f)">doença de Graves</strong> — tratar a tireotoxicose previne recorrências.</p>
+      </div>
+    </section>
+
+    <!-- TRATAMENTO -->
+    <section style="margin-top:34px">
+      <div style="display:flex;align-items:center;gap:12px">
+        <span style="width:34px;height:34px;border-radius:var(--r-pill,999px);background:var(--accent,#c67139);color:#f5ead8;font-family:'Caprasimo',system-ui,sans-serif;font-size:17px;display:flex;align-items:center;justify-content:center">3</span>
+        <h2 style="margin:0;font-family:'Caprasimo',system-ui,sans-serif;font-weight:400;font-size:30px">Tratamento</h2>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:12px;margin-top:18px;font-size:14.5px;line-height:1.55;color:#3f3a33">
+        <p style="margin:0">Reposição de <strong style="color:var(--accent-strong,#8c491a)">K⁺ cautelosa</strong>, em dose baixa e monitorizada (corrige a arritmia; o K⁺ total é normal).</p>
+        <div style="background:var(--accent-soft2,#ffe1d0);border-radius:var(--r-soft,20px);padding:16px 18px;display:flex;gap:12px;align-items:flex-start">
+          <svg viewBox="0 0 24 24" width="20" height="20" style="flex:none;margin-top:1px" fill="none" stroke="var(--accent-strong,#8c491a)" stroke-width="2.75" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path><line x1="12" y1="9" x2="12" y2="13"></line><line x1="12" y1="17" x2="12.01" y2="17"></line></svg>
+          <p style="margin:0;color:var(--accent-strong,#8c491a)"><strong>Risco de hipercalemia de rebote:</strong> ao reverter o shift, o K⁺ retorna à circulação — evite reposição agressiva.</p>
+        </div>
+        <p style="margin:0"><strong style="color:var(--accent-strong,#8c491a)">Betabloqueador não seletivo</strong> (propranolol): bloqueia o shift β-mediado e reverte paralisia e hipocalemia sem rebote — opção de escolha.</p>
+        <p style="margin:0">Evitar carga de glicose/carboidrato; monitorização eletrocardiográfica contínua; tratamento definitivo da tireotoxicose.</p>
+      </div>
+    </section>
+
+    <!-- pearl -->
+    <div style="margin-top:34px;background:var(--second,#7a8a5e);color:#f5ead8;border-radius:var(--r-card,28px);padding:26px 30px">
+      <div style="font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;opacity:.9">Pérola</div>
+      <p style="margin:10px 0 0;font-family:'Caprasimo',system-ui,sans-serif;font-size:23px;line-height:1.18">Hipocalemia + paralisia flácida + tireotoxicose = PPT.</p>
+      <p style="margin:10px 0 0;font-size:15px;line-height:1.5;opacity:.95">O propranolol reverte o quadro; reponha K⁺ com cautela pelo risco de rebote.</p>
+    </div>
+
+  </div>
+</div>
+
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;paletteLead&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Terracota&quot;,&quot;Sálvia&quot;],&quot;default&quot;:&quot;Terracota&quot;,&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Aparência&quot;},&quot;shapeStyle&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;Redondo&quot;,&quot;Suave&quot;,&quot;Nítido&quot;],&quot;default&quot;:&quot;Nítido&quot;,&quot;tsType&quot;:&quot;string&quot;,&quot;section&quot;:&quot;Aparência&quot;},&quot;decorShapes&quot;:{&quot;editor&quot;:&quot;boolean&quot;,&quot;default&quot;:true,&quot;tsType&quot;:&quot;boolean&quot;,&quot;section&quot;:&quot;Aparência&quot;}}">
+class Component extends DCLogic {
+  renderVals() {
+    const lead = this.props.paletteLead ?? 'Terracota';
+    const shape = this.props.shapeStyle ?? 'Redondo';
+    const decor = this.props.decorShapes ?? false;
+
+    const terr = { a: '#c67139', as: '#8c491a', soft: '#fff2eb', soft2: '#ffe1d0' };
+    const sage = { a: '#7a8a5e', as: '#56633f', soft: '#f0fae1', soft2: '#e1eecc' };
+    const A = lead === 'Sálvia' ? sage : terr;
+    const B = lead === 'Sálvia' ? terr : sage;
+
+    const shapes = {
+      'Redondo': { pill: '999px', card: '28px', soft: '20px', note: '16px' },
+      'Suave':   { pill: '22px',  card: '16px', soft: '12px', note: '10px' },
+      'Nítido':  { pill: '8px',   card: '8px',  soft: '6px',  note: '6px'  },
+    }[shape] || { pill: '999px', card: '28px', soft: '20px', note: '16px' };
+
+    const themeVars = [
+      `--accent:${A.a}`, `--accent-strong:${A.as}`, `--accent-soft:${A.soft}`, `--accent-soft2:${A.soft2}`,
+      `--second:${B.a}`, `--second-strong:${B.as}`, `--second-soft:${B.soft}`,
+      `--r-pill:${shapes.pill}`, `--r-card:${shapes.card}`, `--r-soft:${shapes.soft}`, `--r-note:${shapes.note}`,
+    ].join(';') + ';';
+
+    return { themeVars, decor };
+  }
+}
+</script>
+</body>
+</html>
