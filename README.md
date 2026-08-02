@@ -1,12 +1,18 @@
 # Daniel Venturim Ramos
 
-Estudante de medicina. Construo as minhas ferramentas de estudo em vez de só consumir as dos outros — quando não existe o material que eu queria ter, eu escrevo.
+Estudante de medicina na **UFMG**. Monitor de neuroanatomia e membro da Liga de Cardiologia.
 
-## O que isso significa na prática
+Construo as minhas ferramentas de estudo em vez de só consumir as dos outros. Dar aula é o que ensina isso: quando você precisa explicar o trajeto de um par craniano para alguém que está vendo aquilo pela primeira vez, fica óbvio onde o material que existe falha — e aí ou você aceita a falha, ou escreve o que faltava.
 
-Estou montando uma biblioteca de **cards clínicos**: uma página por tema, densa, com o raciocínio inteiro visível — achados, fisiopatologia, conduta e a pérola que fica depois que o resto some. Não é resumo bonito, é material para revisar antes de prova e para não errar na enfermaria.
+## O que estou construindo
+
+Uma biblioteca de **cards clínicos**: uma página por tema, densa, com o raciocínio inteiro visível — achados, fisiopatologia, conduta e a pérola que fica depois que o resto some. Não é resumo bonito; é material para revisar antes da prova e para não errar na enfermaria.
 
 O card de **hipocalemia grave e paralisia periódica tireotóxica** é o modelo do formato: o ECG de 12 derivações, um batimento esquemático em SVG mostrando o achatamento de T e a fusão T–U, os cinco achados eletrocardiográficos, a bomba Na⁺/K⁺-ATPase por trás do shift, e o ponto que muda conduta — repor K⁺ com cautela, porque o potássio corporal total é normal e o rebote é real.
+
+Começar por eletrocardiograma não foi acaso: é o que vejo na Liga de Cardiologia, e é onde o padrão gráfico e o raciocínio fisiopatológico se encontram de um jeito que texto puro não alcança.
+
+📁 **[estudos-medicina](https://github.com/dventurim/estudos-medicina)** — os cards
 
 ## Como eu trabalho
 
@@ -16,11 +22,11 @@ Havia um candidato mais óbvio — um caso indexado literalmente como *"severe h
 
 Esse é o padrão que tento manter: **verificar, não presumir**. Vale para ECG, para conduta e para código.
 
-## Onde estou
+## Universidade
 
-- 🩺 Medicina, com foco em raciocínio clínico e preparação para provas
-- 🧰 Construindo a biblioteca de cards — HTML, SVG e um runtime de componentes para deixá-los temáveis e reutilizáveis
-- 📚 Interessado na interseção entre ensino médico e ferramentas digitais: material que ensina melhor porque é interativo, não porque é mais bonito
+- 🧠 **Monitoria de neuroanatomia** — ensinar é o melhor jeito de descobrir o que você só achava que sabia
+- 🫀 **Liga de Cardiologia da UFMG** — projeto de extensão
+- 🩺 Medicina na UFMG, com foco em raciocínio clínico
 
 ## Contato
 
