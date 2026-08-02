@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://orcid.org/0000-0002-1910-6062"><img src="https://img.shields.io/badge/ORCID-0000--0002--1910--6062-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
   <a href="http://lattes.cnpq.br/1211641598704539"><img src="https://img.shields.io/badge/Lattes-CNPq-1F4E79?style=flat-square&logoColor=white" alt="Currículo Lattes"></a>
-  <a href="https://ror.org/0176yjw32"><img src="https://img.shields.io/badge/UFMG-Faculdade_de_Medicina_·_desde_2018-C8102E?style=flat-square" alt="UFMG"></a>
+  <a href="https://ror.org/0176yjw32"><img src="https://img.shields.io/badge/UFMG-Faculdade_de_Medicina_·_2018--2027-C8102E?style=flat-square" alt="UFMG"></a>
 </p>
 
 ---
@@ -40,6 +40,8 @@ Infográficos e artigos médicos de alto padrão, construídos sobre literatura 
 
 A lista de artigos não é aleatória — é onde meu interesse está. **Psiquiatria** é a área para onde pretendo seguir, e escrever sobre ela é como estudo: nada expõe um buraco de raciocínio mais rápido do que ter de explicar o critério diagnóstico por escrito, para alguém que vai usar aquilo.
 
+Esse interesse não é recente: em 2019 apresentei na Jornada Acadêmica de Neurologia e Neurocirurgia da UFMG um trabalho sobre o efeito do uso excessivo de dispositivos com tela sobre a atenção na primeira infância. O tema do blog hoje é o mesmo de sete anos atrás.
+
 ## 🛠️ Como eu construo
 
 As peças não saem de editor gráfico: são **HTML e SVG** escritos à mão, o que as torna versionáveis, corrigíveis e reutilizáveis — corrigir um dado é editar uma linha, não refazer a arte.
@@ -60,12 +62,26 @@ Material de estudo com dado errado é pior que material nenhum, porque ensina er
 
 ## 🎓 Universidade
 
-- 🧠 **Monitoria de neuroanatomia** — ensinar é o melhor jeito de descobrir o que você só achava que sabia
-- 🫀 **Liga de Cardiologia da UFMG** — projeto de extensão
-- 🩺 Medicina na **UFMG** desde 2018, com foco em raciocínio clínico
-- 🧩 **Interesse em psiquiatria** — a linha que atravessa o que escrevo
+🩺 **Medicina na UFMG** — Faculdade de Medicina, desde 2018 (conclusão prevista em 2027)
 
-Registro acadêmico verificável: [ORCID 0000-0002-1910-6062](https://orcid.org/0000-0002-1910-6062) · [Currículo Lattes](http://lattes.cnpq.br/1211641598704539)
+**Monitoria de Neuroanatomia Humana** (2019, bolsista) — Departamento de Morfologia do ICB/UFMG, atendendo os cursos de Medicina, Enfermagem, Fonoaudiologia e Psicologia. É a experiência que originou tudo o que está acima: ensinar é o melhor jeito de descobrir o que você só achava que sabia.
+
+**Liga de Cardiologia da UFMG** — projeto de extensão. Junto com a formação em *Propedêutica cardiovascular na Atenção Básica* (60h), é o que explica por que o primeiro card do acervo é um ECG.
+
+**Apresentações de trabalho**
+
+| Ano | Trabalho | Evento |
+| --- | --- | --- |
+| 2019 | *Screen Media: o efeito negativo do uso excessivo de dispositivos com tela sobre a atenção na primeira infância* (coautor) | Jornada Acadêmica de Neurologia e Neurocirurgia — Depto. de Morfologia, ICB/UFMG |
+| 2018 | *Atendimento e caso agudo em Unidade Básica de Saúde: princípios, setores e procedimentos* (autor) | I Mostra de Atenção Primária à Saúde — Depto. de Medicina Preventiva e Social, FM/UFMG |
+
+**Formação complementar** — Propedêutica cardiovascular na Atenção Básica (60h, UFMG) · Manejo clínico da COVID-19 na Atenção Especializada (15h, UFMG)
+
+**Sociedades** — American College of Physicians · American Society of Nephrology
+
+**Idiomas** — Português (nativo) · Inglês (fluente)
+
+Registro acadêmico verificável: [ORCID 0000-0002-1910-6062](https://orcid.org/0000-0002-1910-6062) · [Currículo Lattes](http://lattes.cnpq.br/1211641598704539) — citação bibliográfica: **RAMOS, D. V.**
 
 <details>
 <summary>Identificadores da instituição</summary>
