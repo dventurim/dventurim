@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.instagram.com/medramnews/"><img src="https://img.shields.io/badge/Instagram-@medramnews-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://medram-news.blogspot.com/"><img src="https://img.shields.io/badge/Blog-MedRam_News-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="https://dventurim.github.io/estudos-medicina/"><img src="https://img.shields.io/badge/Galeria-MedRam-0F8A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Galeria MedRam"></a>
+  <a href="https://dventurim.github.io/medram/"><img src="https://img.shields.io/badge/Galeria-MedRam-0F8A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Galeria MedRam"></a>
 </p>
 
 <p align="center">
@@ -25,14 +25,14 @@ Construo as minhas ferramentas de estudo em vez de só consumir as dos outros. D
 
 Infográficos e artigos médicos de alto padrão, construídos sobre literatura primária. A proposta é densidade sem ruído: um tema por peça, com o raciocínio inteiro visível — semiologia, fisiopatologia, algoritmo de decisão e a armadilha que derruba a questão de prova.
 
-🌐 **Galeria:** [dventurim.github.io/estudos-medicina](https://dventurim.github.io/estudos-medicina/) — as peças em HTML, cada uma com endereço permanente, versionadas junto com as fontes que as sustentam. Divulgação no [Instagram](https://www.instagram.com/medramnews/).
+🌐 **Galeria:** [dventurim.github.io/medram](https://dventurim.github.io/medram/) — as peças em HTML, cada uma com endereço permanente, versionadas junto com as fontes que as sustentam. Divulgação no [Instagram](https://www.instagram.com/medramnews/).
 
 **Infográficos** — cada um desenhado do zero, com a referência ao lado da afirmação que a sustenta:
 
 | Peça | Do que trata |
 | --- | --- |
-| [**Hipocalemia e ECG**](https://dventurim.github.io/estudos-medicina/infograficos/hipocalemia-ecg/) | Por que a condutância de I<sub>Kr</sub> cai apesar do gradiente maior, a progressão T achatada → onda U → fusão T–U, o pseudo-QT longo e as regras de segurança da reposição venosa |
-| [**Crise de sequestro esplênico**](https://dventurim.github.io/estudos-medicina/infograficos/sequestro-esplenico/) | Da polimerização da HbS ao choque hipovolêmico, passando pela fenda interendotelial e pelo risco de hiperviscosidade na autotransfusão |
+| [**Hipocalemia e ECG**](https://dventurim.github.io/medram/infograficos/hipocalemia-ecg/) | Por que a condutância de I<sub>Kr</sub> cai apesar do gradiente maior, a progressão T achatada → onda U → fusão T–U, o pseudo-QT longo e as regras de segurança da reposição venosa |
+| [**Crise de sequestro esplênico**](https://dventurim.github.io/medram/infograficos/sequestro-esplenico/) | Da polimerização da HbS ao choque hipovolêmico, passando pela fenda interendotelial e pelo risco de hiperviscosidade na autotransfusão |
 | **Erupções acneiformes medicamentosas** | Tétrade discriminatória, fármacos indutores, o mecanismo da cobalamina sobre o transcriptoma de *C. acnes*, e o algoritmo entre suspender o fármaco ou transicionar a via |
 | **Íleo biliar — tríade de Rigler** | Pneumobilia, obstrução mecânica e cálculo ectópico, com a pegada de prova entre *sinal* e *tríade* de Rigler |
 | **Linfonodo sentinela no tumor de mama** | Indicação por cenário clínico, níveis de Berg e a armadilha da axila clinicamente positiva |
