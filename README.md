@@ -8,7 +8,13 @@
 <p align="center">
   <a href="https://www.instagram.com/medramnews/"><img src="https://img.shields.io/badge/Instagram-@medramnews-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://medram-news.blogspot.com/"><img src="https://img.shields.io/badge/Blog-MedRam_News-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="https://github.com/dventurim/estudos-medicina"><img src="https://img.shields.io/badge/Cards-estudos--medicina-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cards"></a>
+  <a href="https://dventurim.github.io/estudos-medicina/"><img src="https://img.shields.io/badge/Galeria-MedRam-0F8A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Galeria"></a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0002-1910-6062"><img src="https://img.shields.io/badge/ORCID-0000--0002--1910--6062-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="http://lattes.cnpq.br/1211641598704539"><img src="https://img.shields.io/badge/Lattes-CNPq-1F4E79?style=flat-square&logoColor=white" alt="Currículo Lattes"></a>
+  <a href="https://ror.org/0176yjw32"><img src="https://img.shields.io/badge/UFMG-Faculdade_de_Medicina_·_desde_2018-C8102E?style=flat-square" alt="UFMG"></a>
 </p>
 
 ---
@@ -19,7 +25,9 @@ Construo as minhas ferramentas de estudo em vez de só consumir as dos outros. D
 
 Infográficos e artigos médicos de alto padrão, construídos sobre literatura primária. A proposta é densidade sem ruído: um tema por peça, com o raciocínio inteiro visível — semiologia, fisiopatologia, algoritmo de decisão e a armadilha que derruba a questão de prova.
 
-**Infográficos** — cada um desenhado do zero, com a referência ao lado da afirmação que a sustenta. Publicados no [Instagram](https://www.instagram.com/medramnews/):
+🌐 **Acervo:** [dventurim.github.io/estudos-medicina](https://dventurim.github.io/estudos-medicina/) — as peças em HTML, com URL permanente. Divulgação no [Instagram](https://www.instagram.com/medramnews/).
+
+**Infográficos** — cada um desenhado do zero, com a referência ao lado da afirmação que a sustenta:
 
 | Peça | Do que trata |
 | --- | --- |
@@ -54,8 +62,24 @@ Material de estudo com dado errado é pior que material nenhum, porque ensina er
 
 - 🧠 **Monitoria de neuroanatomia** — ensinar é o melhor jeito de descobrir o que você só achava que sabia
 - 🫀 **Liga de Cardiologia da UFMG** — projeto de extensão
-- 🩺 Medicina na **UFMG**, com foco em raciocínio clínico
+- 🩺 Medicina na **UFMG** desde 2018, com foco em raciocínio clínico
 - 🧩 **Interesse em psiquiatria** — a linha que atravessa o que escrevo
+
+Registro acadêmico verificável: [ORCID 0000-0002-1910-6062](https://orcid.org/0000-0002-1910-6062) · [Currículo Lattes](http://lattes.cnpq.br/1211641598704539)
+
+<details>
+<summary>Identificadores da instituição</summary>
+
+**Universidade Federal de Minas Gerais** — Belo Horizonte, MG, Brasil
+
+| Registro | Identificador |
+| --- | --- |
+| ROR | [0176yjw32](https://ror.org/0176yjw32) |
+| RINGGOLD | 28114 |
+| ISNI | 0000 0001 2181 4888 |
+| Open Funder Registry | [10.13039/501100007374](https://doi.org/10.13039/501100007374) |
+
+</details>
 
 ## 📫 Contato
 
