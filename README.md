@@ -33,6 +33,7 @@ Infográficos e artigos médicos de alto padrão, construídos sobre literatura 
 | --- | --- |
 | [**Hipocalemia e ECG**](https://dventurim.github.io/medram/infograficos/hipocalemia-ecg/) | Por que a condutância de I<sub>Kr</sub> cai apesar do gradiente maior, a progressão T achatada → onda U → fusão T–U, o pseudo-QT longo e as regras de segurança da reposição venosa |
 | [**Crise de sequestro esplênico**](https://dventurim.github.io/medram/infograficos/sequestro-esplenico/) | Da polimerização da HbS ao choque hipovolêmico, passando pela fenda interendotelial e pelo risco de hiperviscosidade na autotransfusão |
+| [**Eritema infeccioso e crise aplásica**](https://dventurim.github.io/medram/infograficos/eritema-infeccioso-b19/) | Por que o antígeno P restringe o parvovírus B19 à série vermelha, por que a transmissão termina antes de a face esbofeteada aparecer, e o reticulócito que separa a crise aplásica do sequestro esplênico |
 | **Erupções acneiformes medicamentosas** | Tétrade discriminatória, fármacos indutores, o mecanismo da cobalamina sobre o transcriptoma de *C. acnes*, e o algoritmo entre suspender o fármaco ou transicionar a via |
 | **Íleo biliar — tríade de Rigler** | Pneumobilia, obstrução mecânica e cálculo ectópico, com a pegada de prova entre *sinal* e *tríade* de Rigler |
 | **Linfonodo sentinela no tumor de mama** | Indicação por cenário clínico, níveis de Berg e a armadilha da axila clinicamente positiva |
