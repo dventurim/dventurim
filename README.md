@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/medramnews/"><img src="https://img.shields.io/badge/Instagram-@medramnews-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.instagram.com/medram_cards/"><img src="https://img.shields.io/badge/Instagram-@medram_cards-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://medram-news.blogspot.com/"><img src="https://img.shields.io/badge/Blog-MedRam_News-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
   <a href="https://dventurim.github.io/medram/"><img src="https://img.shields.io/badge/Galeria-MedRam-0F8A80?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Galeria MedRam"></a>
 </p>
