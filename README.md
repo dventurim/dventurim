@@ -40,9 +40,9 @@ Infográficos e artigos médicos de alto padrão, construídos sobre literatura 
 
 **Artigos** no [blog](https://medram-news.blogspot.com/): [TDAH no adulto](https://medram-news.blogspot.com/2026/06/tdah-no-adulto-diagnostico-tratamento-e.html), insônia além do "remédio para dormir", Alzheimer, transtorno bipolar e transtorno de ansiedade generalizada.
 
-A lista de artigos não é aleatória — é onde meu interesse está. **Psiquiatria** é a área para onde pretendo seguir, e escrever sobre ela é como estudo: nada expõe um buraco de raciocínio mais rápido do que ter de explicar o critério diagnóstico por escrito, para alguém que vai usar aquilo.
+A lista de artigos não é aleatória — é onde está meu interesse. **Psiquiatria** é a área para onde pretendo seguir, e escrever sobre ela é como estudo: nada expõe um buraco de raciocínio mais rápido do que ter de explicar o critério diagnóstico por escrito, para alguém que vai usar aquilo.
 
-Esse interesse não é recente: em 2019 apresentei na Jornada Acadêmica de Neurologia e Neurocirurgia da UFMG um trabalho sobre o efeito do uso excessivo de dispositivos com tela sobre a atenção na primeira infância. O tema do blog hoje é o mesmo de sete anos atrás.
+Esse interesse não é recente: em 2019, apresentei, na Jornada Acadêmica de Neurologia e Neurocirurgia da UFMG, um trabalho sobre o efeito do uso excessivo de dispositivos com tela na atenção na primeira infância. O tema do blog hoje é o mesmo de sete anos atrás.
 
 ## 🛠️ Como eu construo
 
@@ -54,13 +54,13 @@ As peças não saem de editor gráfico: são **HTML e SVG** escritos à mão, o 
 
 ## 🔍 O padrão: verificar, não presumir
 
-Rastreio até a fonte primária, e digo quando a fonte não alcança.
+Rastreio até a fonte primária e digo quando a fonte não é alcançada.
 
-No card de hipocalemia, o ECG não é "um traçado de hipocalemia qualquer": é o caso 183 do [ECG Wave-Maven](https://ecg.bidmc.harvard.edu) do Beth Israel Deaconess, identificado conferindo cada achado descrito contra o traçado. Havia um candidato mais óbvio, indexado literalmente como *"severe hypokalemia"* — e estava errado: bradicardia a 52 bpm, K⁺ 2,4, ondas U máximas em V2–V3. Três dos cinco achados não batiam.
+No card de hipocalemia, o ECG não é "um traçado de hipocalemia qualquer": é o caso 183 do [ECG Wave-Maven](https://ecg.bidmc.harvard.edu) do Beth Israel Deaconess, identificado conferindo cada achado descrito contra o traçado. Havia um candidato mais óbvio, indexado literalmente como *"severe hypokalemia"* — e estava errado: bradicardia a 52 bpm, K⁺ 2,4, ondas U máximas em V2–V3. Três dos cinco achados não batem.
 
-No infográfico de erupções acneiformes, a ressalva está impressa na própria peça: a diretriz da AAD de 2024 **exclui** explicitamente as erupções acneiformes medicamentosas do seu escopo, então as condutas ali são extrapolações razoáveis de princípios estabelecidos — não recomendação direta. Dizer isso custa espaço e não deixa a peça mais bonita. Fica assim mesmo.
+No infográfico sobre erupções acneiformes, a ressalva está impressa na própria peça: a diretriz da AAD de 2024 **exclui** explicitamente as erupções acneiformes medicamentosas do seu escopo; portanto, as condutas ali são extrapolações razoáveis de princípios estabelecidos — não uma recomendação direta. Dizer isso consome espaço e não torna a peça mais bonita. Fica assim mesmo.
 
-Material de estudo com dado errado é pior que material nenhum, porque ensina errado com cara de certo.
+Material de estudo com dado errado é pior do que nenhum material, porque ensina errado com cara de certo.
 
 ## 🎓 Universidade
 
@@ -68,7 +68,7 @@ Material de estudo com dado errado é pior que material nenhum, porque ensina er
 
 **Monitoria de Neuroanatomia Humana** (2019, bolsista) — Departamento de Morfologia do ICB/UFMG, atendendo os cursos de Medicina, Enfermagem, Fonoaudiologia e Psicologia. É a experiência que originou tudo o que está acima: ensinar é o melhor jeito de descobrir o que você só achava que sabia.
 
-**Liga de Cardiologia da UFMG** — projeto de extensão. Junto com a formação em *Propedêutica cardiovascular na Atenção Básica* (60h), é o que explica por que o primeiro card do acervo é um ECG.
+**Liga de Cardiologia da UFMG** — projeto de extensão. Junto com a formação em *Propedêutica cardiovascular na Atenção Básica* (60h), isso explica por que o primeiro card do acervo é um ECG.
 
 **Apresentações de trabalho**
 
@@ -103,9 +103,10 @@ Registro acadêmico verificável: [ORCID 0000-0002-1910-6062](https://orcid.org/
 
 Aberto a conversar sobre educação médica, ferramentas de estudo e projetos na fronteira entre saúde e tecnologia.
 
-- 📷 Instagram: [@medramnews](https://www.instagram.com/medramnews/)
+- 🖥️ Site: [MedRam Cards](https://medramcards.com.br/)
+- 📷 Instagram: [@medram_cards](https://www.instagram.com/medram_cards/)
 - 📝 Blog: [MedRam News](https://medram-news.blogspot.com/)
-- 💻 GitHub: [@dventurim](https://github.com/dventurim)
+- 📱 GitHub: [@dventurim](https://github.com/dventurim)
 
 ---
 
